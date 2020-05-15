@@ -34,7 +34,7 @@ main {
 }
 
 .stats {
-    background-image: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.9)), url('../img/bg.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.9)), url('../img/bg.png');
     background-size: cover;
 }
 
