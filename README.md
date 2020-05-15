@@ -1,5 +1,6 @@
 # COVID-19 TRACKER
 <a href="https://imgur.com/xkN6rHl"><img src="https://i.imgur.com/xkN6rHl.gif" title="source: imgur.com" /></a>
+
 **Description:**
 COVID-19 Tracker can be used to track the Coronavirus spreading.  
 
